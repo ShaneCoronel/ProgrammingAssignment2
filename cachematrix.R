@@ -1,8 +1,7 @@
 
 ##This is the code that will cache the inverse of the given matrix, best use to save time
-## functions do
+## the function will be able to save time computing inverses of given matrix. cacheMatrix cache the matrix and the inverse will be acquired
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
 inv <- NULL
