@@ -16,7 +16,7 @@ list(set=set, get=get, setInverse=setInverse, getInverse=getInverse)
         
 }
 
-## cacheSolve code will get the inverse of the given matrix
+## cacheSolve code will get the inverse of the given matrix.
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
